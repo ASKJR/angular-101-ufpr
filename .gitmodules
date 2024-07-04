@@ -1,0 +1,18 @@
+[submodule "calculadora"]
+	path = calculadora
+	url = .\\calculadora\\
+[submodule "calculadora-bootstrap"]
+	path = calculadora-bootstrap
+	url = .\\calculadora-bootstrap\\
+[submodule "calculadora-material"]
+	path = calculadora-material
+	url = .\\calculadora-material\\
+[submodule "crud-pessoa"]
+	path = crud-pessoa
+	url = .\\crud-pessoa\\
+[submodule "hello-world"]
+	path = hello-world
+	url = .\\hello-world\\
+[submodule "soma"]
+	path = soma
+	url = .\\soma\\
