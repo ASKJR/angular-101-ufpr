@@ -1,0 +1,17 @@
+ng new soma --standalone=false
+ng g module soma
+ng g component soma/soma
+ng g service soma/services/soma
+ng add @angular/material
+ng g class shared/models/pessoa --type=model
+ng g service pessoa/services/pessoa
+ng g component pessoa/listar-pessoa
+npm install --save @fortawesome/fontawesome-free
+
+[{"id":1, "nome": "Alberto", "idade": 22},{"id":2, "nome": "Alberto", "idade": 22}]
+npm install --save bootstrap
+
+"styles": [
+	"src/styles.css",
+	"node_modules/bootstrap/dist/css/bootstrap.min.css"
+], ->angular.json
